@@ -1,6 +1,5 @@
 # Weather Application
 
-![Weather App Screenshot](/screenshots/screenshot.png)
 
 **Weather Application** is a dynamic and user-friendly mobile app that allows users to access real-time weather information for any city across the globe. With a sleek interface and accurate data, users can easily stay informed about current weather conditions, temperature, and forecasts.
 
@@ -20,9 +19,6 @@ https://abdulrahmanabs.github.io/Weather_Application_Website/#/
 ![Screenshot 2](https://github.com/abdulrahmanabs/weather_application/assets/58333909/8715727f-6ca6-4195-a25b-bb8d1cd7141c)
 ![Screenshot 3](https://github.com/abdulrahmanabs/weather_application/assets/58333909/c60d3e99-8856-4742-8cb0-5fe59e9ed57a)
 
-(/screenshots/screenshot1.png)
-(/screenshots/screenshot2.png)
-/screenshots/screenshot3.png)
 
 ## Getting Started
 
